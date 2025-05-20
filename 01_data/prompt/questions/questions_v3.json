@@ -1,0 +1,50 @@
+{
+  "q1": {
+    "text": "Should the federal government make it more difficult for people to buy a gun?",
+    "options": [
+      "1. More difficult",
+      "2. Easier",
+      "3. Keep the rules about the same"
+    ]
+  },
+  "q2": {
+    "text": "Should federal spending on welfare programs be increased, decreased, or kept the same?",
+    "options": [
+      "1. Increased",
+      "2. Decreased",
+      "3. Kept the same"
+    ]
+  },
+  "q3": {
+    "text": "Should federal spending on tightening border security to prevent illegal immigration be increased, decreased, or kept the same?",
+    "options": [
+      "1. Increased",
+      "2. Decreased",
+      "3. Kept the same"
+    ]
+  },
+  "q4": {
+    "text": "Do you favor, oppose, or neither favor nor oppose allowing transgender people to serve in the United States Armed Forces?",
+    "options": [
+      "1. Favor",
+      "2. Oppose",
+      "3. Neither favor nor oppose"
+    ]
+  },
+  "q5": {
+    "text": "In general, does the federal government treat whites better than blacks, treat them both the same, or treat blacks better than whites?",
+    "options": [
+      "1. Treat whites better",
+      "2. Treat both the same",
+      "3. Treat blacks better"
+    ]
+  },
+  "q6": {
+    "text": "In general, do the police treat whites better than blacks, treat them both the same, or treat blacks better than whites?",
+    "options": [
+      "1. Treat whites better",
+      "2. Treat both the same",
+      "3. Treat blacks better"
+    ]
+  }
+}
